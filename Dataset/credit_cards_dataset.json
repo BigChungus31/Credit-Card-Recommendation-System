@@ -1,0 +1,398 @@
+{
+  "cards": [
+    {
+      "name": "HDFC Regalia Credit Card",
+      "issuer": "HDFC Bank",
+      "joining_fee": 2500,
+      "annual_fee": 2500,
+      "eligibility": "Minimum monthly income of ₹50,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "4 points per ₹150 on all spends; 2X points on weekend dining",
+      "perks": [
+        "Lounge Access",
+        "Golf Privileges",
+        "Concierge Services"
+      ],
+      "apply_link": "https://dummy-apply-link.com/hdfc-regalia",
+      "image_url": "https://dummyimages.com/regalia.png"
+    },
+    {
+      "name": "HDFC Millennia Credit Card",
+      "issuer": "HDFC Bank",
+      "joining_fee": 1000,
+      "annual_fee": 1000,
+      "eligibility": "Minimum monthly income of ₹35,000",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on Amazon and Flipkart; 2.5% on PayTM and Swiggy; 1% elsewhere",
+      "perks": [
+        "Lounge Access",
+        "Fuel Surcharge Waiver",
+        "Amazon Prime Membership"
+      ],
+      "apply_link": "https://dummy-apply-link.com/hdfc-millennia",
+      "image_url": "https://dummyimages.com/millennia.png"
+    },
+    {
+      "name": "HDFC MoneyBack Credit Card",
+      "issuer": "HDFC Bank",
+      "joining_fee": 500,
+      "annual_fee": 500,
+      "eligibility": "Minimum monthly income of ₹25,000",
+      "reward_type": "Cashback",
+      "reward_rate": "2% on groceries and pharmacy; 1% elsewhere",
+      "perks": [
+        "Fuel Surcharge Waiver",
+        "Zero Liability on Lost Card"
+      ],
+      "apply_link": "https://dummy-apply-link.com/hdfc-moneyback",
+      "image_url": "https://dummyimages.com/moneyback.png"
+    },
+    {
+      "name": "ICICI Amazon Pay Credit Card",
+      "issuer": "ICICI Bank",
+      "joining_fee": 0,
+      "annual_fee": 0,
+      "eligibility": "Amazon Prime member with minimum monthly income of ₹25,000",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on Amazon for Prime members; 3% for non-Prime; 2% on Amazon Pay partners; 1% elsewhere",
+      "perks": [
+        "No Annual Fee for Prime Members",
+        "Welcome Bonus ₹2000",
+        "No Foreign Transaction Fee on Amazon"
+      ],
+      "apply_link": "https://dummy-apply-link.com/icici-amazon-pay",
+      "image_url": "https://dummyimages.com/amazon-pay.png"
+    },
+    {
+      "name": "ICICI Sapphiro Credit Card",
+      "issuer": "ICICI Bank",
+      "joining_fee": 3500,
+      "annual_fee": 3500,
+      "eligibility": "Minimum annual income of ₹8,00,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "2 points per ₹100 on all spends; 2X points on travel and dining",
+      "perks": [
+        "Lounge Access",
+        "International Lounge Access",
+        "Golf Privileges",
+        "Concierge Services"
+      ],
+      "apply_link": "https://dummy-apply-link.com/icici-sapphiro",
+      "image_url": "https://dummyimages.com/sapphiro.png"
+    },
+    {
+      "name": "ICICI Coral Credit Card",
+      "issuer": "ICICI Bank",
+      "joining_fee": 500,
+      "annual_fee": 500,
+      "eligibility": "Minimum monthly income of ₹20,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "2 points per ₹100 on all spends",
+      "perks": [
+        "Lounge Access",
+        "BookMyShow Offers",
+        "Dining Discounts",
+        "Fuel Surcharge Waiver"
+      ],
+      "apply_link": "https://dummy-apply-link.com/icici-coral",
+      "image_url": "https://dummyimages.com/coral.png"
+    },
+    {
+      "name": "SBI SimplyCLICK Credit Card",
+      "issuer": "SBI Card",
+      "joining_fee": 499,
+      "annual_fee": 499,
+      "eligibility": "Minimum monthly income of ₹20,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "10X points on online spends above ₹1000/month; 5X on dining and movies; 1X elsewhere",
+      "perks": [
+        "Amazon Voucher on Joining",
+        "Fuel Surcharge Waiver",
+        "Movie Ticket Offers"
+      ],
+      "apply_link": "https://dummy-apply-link.com/sbi-simplyclick",
+      "image_url": "https://dummyimages.com/simplyclick.png"
+    },
+    {
+      "name": "SBI Card PRIME",
+      "issuer": "SBI Card",
+      "joining_fee": 2999,
+      "annual_fee": 2999,
+      "eligibility": "Minimum monthly income of ₹30,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "5X points on dining, movies, grocery; 2X on weekends; 1X elsewhere",
+      "perks": [
+        "Lounge Access",
+        "Golf Privileges",
+        "Concierge Services",
+        "Milestone Benefits"
+      ],
+      "apply_link": "https://dummy-apply-link.com/sbi-prime",
+      "image_url": "https://dummyimages.com/sbi-prime.png"
+    },
+    {
+      "name": "Axis Bank Flipkart Credit Card",
+      "issuer": "Axis Bank",
+      "joining_fee": 500,
+      "annual_fee": 500,
+      "eligibility": "Minimum monthly income of ₹25,000",
+      "reward_type": "Cashback",
+      "reward_rate": "5% unlimited on Flipkart and Myntra; 4% on Preferred Partners; 1.5% elsewhere",
+      "perks": [
+        "Flipkart Plus Membership",
+        "₹500 Flipkart Voucher on Joining"
+      ],
+      "apply_link": "https://dummy-apply-link.com/axis-flipkart",
+      "image_url": "https://dummyimages.com/flipkart.png"
+    },
+    {
+      "name": "Axis Bank SELECT Credit Card",
+      "issuer": "Axis Bank",
+      "joining_fee": 3000,
+      "annual_fee": 3000,
+      "eligibility": "Minimum annual income of ₹8,00,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "25 EDGE points per ₹200 on travel; 10 points per ₹200 elsewhere",
+      "perks": [
+        "Lounge Access",
+        "International Lounge Access",
+        "Golf Privileges",
+        "Concierge Services"
+      ],
+      "apply_link": "https://dummy-apply-link.com/axis-select",
+      "image_url": "https://dummyimages.com/axis-select.png"
+    },
+    {
+      "name": "American Express Gold Card",
+      "issuer": "American Express",
+      "joining_fee": 4500,
+      "annual_fee": 4500,
+      "eligibility": "Minimum annual income of ₹6,00,000",
+      "reward_type": "Membership Rewards Points",
+      "reward_rate": "4X points on dining; 2X on travel and fuel; 1X elsewhere",
+      "perks": [
+        "Global Lounge Access",
+        "Taj InnerCircle Membership",
+        "Fine Dining Experiences",
+        "Travel Insurance"
+      ],
+      "apply_link": "https://dummy-apply-link.com/amex-gold",
+      "image_url": "https://dummyimages.com/amex-gold.png"
+    },
+    {
+      "name": "Standard Chartered Manhattan Credit Card",
+      "issuer": "Standard Chartered Bank",
+      "joining_fee": 1000,
+      "annual_fee": 1000,
+      "eligibility": "Minimum monthly income of ₹30,000",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on dining and entertainment; 1% elsewhere",
+      "perks": [
+        "Dining Privileges",
+        "Movie Ticket Offers",
+        "Fuel Surcharge Waiver"
+      ],
+      "apply_link": "https://dummy-apply-link.com/sc-manhattan",
+      "image_url": "https://dummyimages.com/manhattan.png"
+    },
+    {
+      "name": "Kotak 811 #Dream Different Credit Card",
+      "issuer": "Kotak Mahindra Bank",
+      "joining_fee": 500,
+      "annual_fee": 500,
+      "eligibility": "Minimum monthly income of ₹25,000",
+      "reward_type": "Cashback",
+      "reward_rate": "4% on online spends; 2% on dining; 1% elsewhere",
+      "perks": [
+        "Ola/Uber Vouchers",
+        "BookMyShow Offers",
+        "Fuel Surcharge Waiver"
+      ],
+      "apply_link": "https://dummy-apply-link.com/kotak-811",
+      "image_url": "https://dummyimages.com/kotak-811.png"
+    },
+    {
+      "name": "IndusInd Bank Iconia Credit Card",
+      "issuer": "IndusInd Bank",
+      "joining_fee": 2500,
+      "annual_fee": 2500,
+      "eligibility": "Minimum monthly income of ₹50,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "3X points on weekend spends; 2X on weekdays; additional points on partner merchants",
+      "perks": [
+        "Lounge Access",
+        "Movie Ticket Offers",
+        "Dining Discounts",
+        "Golf Privileges"
+      ],
+      "apply_link": "https://dummy-apply-link.com/indusind-iconia",
+      "image_url": "https://dummyimages.com/iconia.png"
+    },
+    {
+      "name": "Yes First Exclusive Credit Card",
+      "issuer": "Yes Bank",
+      "joining_fee": 2999,
+      "annual_fee": 2999,
+      "eligibility": "Minimum annual income of ₹5,00,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "6 points per ₹100 on dining and travel; 2 points per ₹100 elsewhere",
+      "perks": [
+        "Lounge Access",
+        "International Lounge Access",
+        "Golf Privileges",
+        "Concierge Services"
+      ],
+      "apply_link": "https://dummy-apply-link.com/yes-first-exclusive",
+      "image_url": "https://dummyimages.com/yes-exclusive.png"
+    },
+    {
+      "name": "IDFC First Millennia Credit Card",
+      "issuer": "IDFC First Bank",
+      "joining_fee": 0,
+      "annual_fee": 0,
+      "eligibility": "Minimum monthly income of ₹25,000",
+      "reward_type": "Cashback",
+      "reward_rate": "10X points on UPI spends above ₹20,000/month; 6X on online spends; 1X elsewhere",
+      "perks": [
+        "Lifetime Free Card",
+        "Railway Lounge Access",
+        "Movie Ticket Offers",
+        "Fuel Surcharge Waiver"
+      ],
+      "apply_link": "https://dummy-apply-link.com/idfc-millennia",
+      "image_url": "https://dummyimages.com/idfc-millennia.png"
+    },
+    {
+      "name": "BOB Premier Credit Card",
+      "issuer": "Bank of Baroda",
+      "joining_fee": 1499,
+      "annual_fee": 1499,
+      "eligibility": "Minimum monthly income of ₹40,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "5 points per ₹100 on fuel, travel, dining; 2 points per ₹100 elsewhere",
+      "perks": [
+        "Lounge Access",
+        "Golf Privileges",
+        "Fuel Surcharge Waiver",
+        "Travel Insurance"
+      ],
+      "apply_link": "https://dummy-apply-link.com/bob-premier",
+      "image_url": "https://dummyimages.com/bob-premier.png"
+    },
+    {
+      "name": "RBL Bank World Safari Credit Card",
+      "issuer": "RBL Bank",
+      "joining_fee": 3000,
+      "annual_fee": 3000,
+      "eligibility": "Minimum annual income of ₹7,50,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "3X points on travel and fuel; 2X points on dining and entertainment; 1X elsewhere",
+      "perks": [
+        "Unlimited Lounge Access",
+        "International Lounge Access",
+        "Travel Insurance",
+        "Concierge Services"
+      ],
+      "apply_link": "https://dummy-apply-link.com/rbl-world-safari",
+      "image_url": "https://dummyimages.com/world-safari.png"
+    },
+    {
+      "name": "Citibank Rewards Credit Card",
+      "issuer": "Citibank",
+      "joining_fee": 1000,
+      "annual_fee": 1000,
+      "eligibility": "Minimum monthly income of ₹30,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "10X points on dining and movies; 5X on departmental stores and groceries; 1X elsewhere",
+      "perks": [
+        "Movie Ticket Offers",
+        "Dining Discounts",
+        "Fuel Surcharge Waiver"
+      ],
+      "apply_link": "https://dummy-apply-link.com/citi-rewards",
+      "image_url": "https://dummyimages.com/citi-rewards.png"
+    },
+    {
+      "name": "HSBC Cashback Credit Card",
+      "issuer": "HSBC Bank",
+      "joining_fee": 750,
+      "annual_fee": 750,
+      "eligibility": "Minimum monthly income of ₹25,000",
+      "reward_type": "Cashback",
+      "reward_rate": "1.5% cashback on all spends with no category restrictions",
+      "perks": [
+        "No Cashback Caps",
+        "Fuel Surcharge Waiver",
+        "24/7 Concierge"
+      ],
+      "apply_link": "https://dummy-apply-link.com/hsbc-cashback",
+      "image_url": "https://dummyimages.com/hsbc-cashback.png"
+    },
+    {
+      "name": "AU Small Finance Bank Vetta Credit Card",
+      "issuer": "AU Small Finance Bank",
+      "joining_fee": 2999,
+      "annual_fee": 2999,
+      "eligibility": "Minimum annual income of ₹7,50,000",
+      "reward_type": "Cashback",
+      "reward_rate": "3.5% cashback on online spends; 2% on offline spends; 1.5% elsewhere",
+      "perks": [
+        "Unlimited Lounge Access",
+        "Golf Privileges",
+        "Concierge Services",
+        "Travel Insurance"
+      ],
+      "apply_link": "https://dummy-apply-link.com/au-vetta",
+      "image_url": "https://dummyimages.com/au-vetta.png"
+    },
+    {
+      "name": "PNB RuPay Platinum Credit Card",
+      "issuer": "Punjab National Bank",
+      "joining_fee": 500,
+      "annual_fee": 500,
+      "eligibility": "Minimum monthly income of ₹25,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "4 points per ₹100 on groceries and fuel; 2 points per ₹100 elsewhere",
+      "perks": [
+        "Railway Lounge Access",
+        "Fuel Surcharge Waiver",
+        "Insurance Coverage"
+      ],
+      "apply_link": "https://dummy-apply-link.com/pnb-rupay",
+      "image_url": "https://dummyimages.com/pnb-rupay.png"
+    },
+    {
+      "name": "Federal Bank Signet Credit Card",
+      "issuer": "Federal Bank",
+      "joining_fee": 1500,
+      "annual_fee": 1500,
+      "eligibility": "Minimum monthly income of ₹35,000",
+      "reward_type": "Reward Points",
+      "reward_rate": "5X points on dining and entertainment; 3X on fuel and travel; 1X elsewhere",
+      "perks": [
+        "Lounge Access",
+        "Movie Ticket Discounts",
+        "Fuel Surcharge Waiver",
+        "Golf Privileges"
+      ],
+      "apply_link": "https://dummy-apply-link.com/federal-signet",
+      "image_url": "https://dummyimages.com/federal-signet.png"
+    },
+    {
+      "name": "Axis Bank Neo Credit Card",
+      "issuer": "Axis Bank",
+      "joining_fee": 0,
+      "annual_fee": 0,
+      "eligibility": "Age 18+ with valid income source",
+      "reward_type": "Cashback",
+      "reward_rate": "5% on Swiggy and Zomato; 4% on Ola and Uber; 2% on utility bills; 1% elsewhere",
+      "perks": [
+        "Lifetime Free Card",
+        "Welcome Benefit ₹100",
+        "Monthly Cashback Cap ₹1500"
+      ],
+      "apply_link": "https://dummy-apply-link.com/axis-neo",
+      "image_url": "https://dummyimages.com/axis-neo.png"
+    }
+  ]
+}
